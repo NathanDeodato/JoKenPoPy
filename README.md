@@ -9,7 +9,7 @@
 <br>
 
 ### 🖼 Image project
-![JoKenPo-py](/JoKenPo-Py.png)
+![JoKenPo-py](/JoKenPo-py.png)
 
 <br>
 
