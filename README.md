@@ -1,4 +1,4 @@
-# PassGen-py
+# JoKenPo-py
 
 ## 🗂 Project description
 
