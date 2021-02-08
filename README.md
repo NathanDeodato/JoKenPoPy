@@ -43,6 +43,6 @@
 
 ### ✔ Status
 
-<h4>Finished!</h4>
+<h4>Building!</h4>
 
 <footer>&copy; NT Developer</footer>
