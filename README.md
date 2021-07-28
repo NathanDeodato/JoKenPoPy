@@ -17,14 +17,12 @@
 ![JoKenPo-v2-py](Img/JoKenPo-v2-py.png)
 
 ---
-
 ### 🛠 Technology
 
 <li> Python
 <li> PySimpleGUI
 
 ---
-
 ### 💾 Instalação
 
 <h5>Mac e Linux</h5>
@@ -42,7 +40,6 @@
 ~~~
 
 ---
-
 ### ✔ Status
 
 <h4>Building!</h4>
