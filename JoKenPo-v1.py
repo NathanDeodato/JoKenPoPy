@@ -8,7 +8,7 @@ azul = '\033[1;34m'
 vermelho = '\033[1;31m'
 preto = '\033[1;30m'
 
-# Start Game
+# Start 
 print(preto + "=" * 100)
 
 print(azul + "<< JoKenPo >>".center(100))
